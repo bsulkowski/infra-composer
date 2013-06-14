@@ -1,4 +1,4 @@
 chord-beat
 ==========
 
-Experimental polyrythmic compose tool
+Experimental polyrhythmic compose tool
